@@ -11,4 +11,4 @@ COPY ./tools/script.sh /
 COPY ./tools/wp-config.php /
 
 
-CMD ["bash", "/script.sh" ]
+CMD ["/script.sh" ]
