@@ -4,12 +4,12 @@ The aim of this project is to use dockerfile for the creation and management of 
 Writing dockerfile for the creation of containers.
 How to write the docker-compose.yml file to make the containers work together in the correct order and make the system work the way we want.
 
-##### How to run
+### How to run
 
 run make or make up to start the docker-compose containers.
 run make down to stop the containers.
 
-##### About this project
+### About this project
 
 For this project we need to setup a simple docker-compose network with the following containers:
 
